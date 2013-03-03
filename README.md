@@ -1,6 +1,6 @@
 # Web Stand Up
 
-### Where '''HTML''' stands for HumorousText Marup Language and not HyperText Markup Language<
+### Where *HTML* stands for HumorousText Marup Language and not HyperText Markup Language
 
 ## About
 
