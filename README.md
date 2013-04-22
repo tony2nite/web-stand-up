@@ -12,5 +12,6 @@ Skeleton based on [Brunch with Eggs and Bacon](https://github.com/nezoomie/brunc
 Make sure to have [Brunch.io](http://brunch.io) installed.
 
 To run a local server
-		npm install
-		brunch watch --server
+
+	npm install
+	brunch watch --server
